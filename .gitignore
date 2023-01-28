@@ -1,1 +1,4 @@
-Step1_build/
+.idea/
+.vscode/
+Step*_build/
+CMakeCache.txt
