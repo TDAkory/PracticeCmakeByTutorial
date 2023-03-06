@@ -2,3 +2,6 @@
 .vscode/
 Step*_build/
 CMakeCache.txt
+Step*/CmakeFiles/
+Step*/Makefile
+Step*/cmake_install.cmake
